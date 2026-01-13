@@ -54,7 +54,7 @@ const HeroSection = () => {
           data-aos="fade-up"
           data-aos-delay="300"
         >
-          Alfimar Motors Limited 
+          Alfimar Motors Ltd
         </p>
 
         {/* CTA Button */}
